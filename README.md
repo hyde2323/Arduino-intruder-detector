@@ -20,3 +20,8 @@ System Development and Prototyping (https://drive.google.com/file/d/1RaGBXObRfY8
 Sketches and CAD (https://drive.google.com/file/d/15IOGWP7FGRZXCuLlmO4qEKUCJsZqj1ja/view?usp=drive_link)
 Measured Performance (https://drive.google.com/file/d/1U46zD8c9GbOveq05L2DgDNarqvszRNLD/view?usp=drive_link)
 
+### 📄 Material List
+
+[View Material List on Google Drive](https://drive.google.com/file/d/1P1G2YDBCtL2-7clqSyIJAjs1vWEqcTyI/view?usp=drive_link)
+
+
